@@ -2,6 +2,6 @@
 
 [杭电官网](http://www.hdu.edu.cn/)
 
-![](http://www.baidu.com/img/bdlogo.gif)
+![](http://mouapp.com/Mou_128.png)
 
 ![](https://github.com/Nicklaus24/info/raw/master/img/timy.jpg)
